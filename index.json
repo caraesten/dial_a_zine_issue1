@@ -1,0 +1,41 @@
+{
+    "hello": "welcome.txt",
+    "contents": [
+        {
+            "title": "Manak",
+            "author": "Frog K.",
+            "type": "story",
+            "directory": "manak"
+        },
+        {
+            "title": "Ava's Test",
+            "author": "Ava Hofmann",
+            "type": "story",
+            "directory": "ava_test"
+        },
+        {
+            "title": "Pleased",
+            "author": "Jade G.",
+            "type": "story",
+            "directory": "pleased"
+        },
+        {
+            "title": "Island",
+            "author": "Jeri Claire",
+            "type": "story",
+            "directory": "island"
+        },
+        {
+            "title": "Dear Maya",
+            "author": "Jade G.",
+            "type": "story",
+            "directory": "dear_maya"
+        },
+        {
+            "title": "Milestones",
+            "author": "Jeri Claire",
+            "type": "story",
+            "directory": "milestones"
+        }
+    ]
+}
