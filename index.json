@@ -2,6 +2,12 @@
     "hello": "welcome.txt",
     "contents": [
         {
+            "title": "Editor's Note (And Users' Manual)",
+            "author": "Cara Esten",
+            "type": "story",
+            "directory": "editors_howto"
+        },
+        {
             "title": "Manak",
             "author": "Frog K.",
             "type": "story",
