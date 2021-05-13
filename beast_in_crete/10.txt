@@ -1,10 +1,10 @@
                                                                                 
   ,--------------------------------------------------------------------------.  
   |,------------------------------------------------------------------------.|  
-  ||EXFIL COMMENCEMENT REPORT FOR SUBJ 2AP55    /CONF/    updated 05-05-2021||  
+  ||EXFIL COMMENCEMENT REPORT FOR SUBJ 2AP55    /CONF/    updated 05-14-2021||  
   |`------------------------------------------------------------------------'|  
   |,----------------------------------------. ,-----------------.,----------.|  
-  ||Director's Note – Subject 2AP55         | |SCHEDULED DoEXFIL||05-27-2021||  
+  ||Director's Note –--- Case Subject 2AP55 | |SCHEDULED DoEXFIL||05-27-2021||  
   ||(henceforth referred to as "ASTRN379g") | `-----------------'`----------'|  
   ||rated for ASAP contact and retrieval to | ,---------.,------------------.|  
   ||collaborator site, followed by Society  | |SCHEDULED||35.297828943366774||  
